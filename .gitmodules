@@ -1,0 +1,3 @@
+[submodule "fortran-curl"]
+	path = fortran-curl
+	url = https://github.com/interkosmos/fortran-curl
